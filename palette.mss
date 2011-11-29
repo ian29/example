@@ -4,7 +4,7 @@
 @4: #648c9c;
 @5: #4f758a; 
 
-@sans:              "Arial Regular","DejaVu Sans Book";
+@sans:              "Arial Regular";
 @sans_bold:         "Arial Bold", "DejaVu Sans Bold";
 @sans_italic:       "Arial Italic", "DejaVu Sans Oblique";
 @sans_bold_italic:  "Arial Bold Italic", " DejaVu Sans Bold Oblique";
