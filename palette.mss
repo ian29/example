@@ -1,5 +1,3 @@
-/* newline */
-
 @1: #bce2e3;
 @2: #a1c6d1;
 @3: #8ab1bf;
